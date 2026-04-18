@@ -13,9 +13,6 @@ Créer une page web simple en HTML/CSS pour pratiquer :
 - style.css
 - images/
 
-## 🚀 Aperçu
-(ajouter une capture d’écran ici plus tard)
-
 ## 👩‍💻 Technologies utilisées
 - HTML5
 - CSS3
